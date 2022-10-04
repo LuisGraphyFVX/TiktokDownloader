@@ -1,0 +1,16 @@
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\bin\Debug\netcoreapp3.1\Tiktok Downloader.exe
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\bin\Debug\netcoreapp3.1\Tiktok Downloader.deps.json
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\bin\Debug\netcoreapp3.1\Tiktok Downloader.runtimeconfig.json
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\bin\Debug\netcoreapp3.1\Tiktok Downloader.runtimeconfig.dev.json
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\bin\Debug\netcoreapp3.1\Tiktok Downloader.dll
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\bin\Debug\netcoreapp3.1\Tiktok Downloader.pdb
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.AssemblyInfo.cs
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.csproj.CopyComplete
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.dll
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.pdb
+C:\Users\Luis\source\repos\Tiktok Downloader\Tiktok Downloader\obj\Debug\netcoreapp3.1\Tiktok Downloader.genruntimeconfig.cache
